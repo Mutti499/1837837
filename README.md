@@ -1,5 +1,5 @@
 # 1837837
-İsmi anlayamadınmı ? O zaman birde tersten bak ;)
+Başlığı anlayamadınmı ? O zaman birde tersten bak ;)
 
 
 ## 1 - Introduction

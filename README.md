@@ -1,6 +1,4 @@
-# 1837837
-Başlığı anlayamadınmı ? O zaman birde tersten bak ;)
-
+# C Interpreter
 
 ## 1 - Introduction
 &ensp; The Advanced Calculator project is an interpreter which is based on some pre-designed assumptions. This interpreter implementation aims to calculate advanced infix operations and functions using the C programming language. 	
